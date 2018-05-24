@@ -1,2 +1,5 @@
 # HackerRank
-Solutions to online problems
+
+Solutions to online programming problems
+
+Please dont use my solutions as your own. 
